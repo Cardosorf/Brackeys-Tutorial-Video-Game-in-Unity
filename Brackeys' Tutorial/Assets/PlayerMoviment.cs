@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class PlayerMovimente : MonoBehaviour
+public class PlayerMoviment : MonoBehaviour
 {
 
     // This is a reference to the RigidBody component called "rb"
